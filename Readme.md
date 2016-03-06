@@ -7,3 +7,5 @@ Recently, I found out about expectation-maximisation algorithm, and was fascinat
 Data used is Old Faitful geyser eruption data. When initial variables are set, algorithm converges in set number of iterations.
 
 EM here was done using `mvtnorm` library, to fit data to multivariate normal distributions.
+
+Github link [EM clustering](https://github.com/duxan/data-products-assignment)
